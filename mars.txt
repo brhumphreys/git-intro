@@ -1,3 +1,2 @@
 mars is a planet.
 It's the fourth panet from the sun.
-end
